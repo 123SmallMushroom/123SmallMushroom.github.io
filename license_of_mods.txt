@@ -1,6 +1,6 @@
 以下内容是一些闭源或Copyright许可证模组的说明
 
-Xaeros小地图系列（新版本已移除）：
+Xaeros小地图系列（MineOptimiz新版本已移除）：
 这些模组是闭源的，作者要求整合包作者
 如果不在CurseForge或Modrinth发布整合包，就需要标出官网
 这是Xaero's Minimap的官网：https://chocolateminecraft.com/minimap2.php
