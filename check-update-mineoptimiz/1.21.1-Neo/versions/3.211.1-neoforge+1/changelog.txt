@@ -1,0 +1,10 @@
+ - 升级NeoForge
+ - 使用Continuity实现无缝玻璃而不是资源包
+ - 将xaeros maps替换为旅行地图
+ - 修复了关于资源包加载与按键冲突问题
+ - 修复了土径阴影不被渲染的问题
+ - 升级大部分模组
+ - 添加了自定义天空资源包支持 (f8a5e655459b83d97dfc854d0fad4bbd13d2ed61)
+ - 删除了一些无用配置文件
+ - 将cullleaves替换为moreculling
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.211.0-neoforge+3...3.211.1-neoforge+1

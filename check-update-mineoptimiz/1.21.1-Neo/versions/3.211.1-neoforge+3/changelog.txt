@@ -1,0 +1,5 @@
+从[测试版分支](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/tree/21.1/neoforge_testing)移植了一些必要更改：
+ - 更新[模组许可证链接](https://123smallmushroom.github.io/license_of_mods.txt) (04df86138598875c18a06bd8cc633d17fed7271f)
+ - 将攻击指示器调回默认的“十字准星”模式 (5ecbfe3695e5ca81f8ab743e509ae3c2f9fc207d)
+
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.211.1-neoforge+2...3.211.1-neoforge

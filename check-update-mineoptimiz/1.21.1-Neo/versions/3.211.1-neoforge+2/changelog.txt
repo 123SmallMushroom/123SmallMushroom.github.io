@@ -1,0 +1,2 @@
+ - 更新embeddium
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.211.1-neoforge+1...3.211.1-neoforge+2

@@ -13,6 +13,18 @@
       {
         "id": "3.211.0-neoforge+3",
         "releasedAt": 2
+      },
+      {
+        "id": "3.211.1-neoforge+1",
+        "releasedAt": 3
+      },
+      {
+        "id": "3.211.1-neoforge+2",
+        "releasedAt": 4
+      },
+      {
+        "id": "3.211.1-neoforge+3",
+        "releasedAt": 5
       }
     ]
   }
