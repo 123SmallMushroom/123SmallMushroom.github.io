@@ -1,0 +1,34 @@
+## 整合包内更改
+
+
+ - 将整合包移植到[packwiz](https://github.com/packwiz/packwiz)储存格式，减小体积 (f5f8d2d638642646bf02613dd2b4b7eacdc5b9a4, 7f571e833ef0efdaf13ecb2ff9a55a76ad14016a)
+ - 关闭自动缩放，修复了部分情况下界面模糊的问题 (6b4913794f0b1d76a75d6efb3f3391d2cc7dea0e)
+ - 删除了一些不再被需要的lib模组 (9d6866c58f590f8f1dd17b4475e7a8976e447b84)
+ - 将闭源的fix-gpu-memory替换为适用平台更为广泛的[gpu-tape](https://modrinth.com/mod/gputape/) (c4894d0e8f93ba69bd13423ec547ca2a5bb23b9b)
+ - 添加了[1.20.1-Forge分支](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/tree/20.1/forge_testing)缺失的[EMF](https://modrinth.com/mod/entity-model-features) (cbcae1b13cb96cc29e69f94a0f97ff3af91be3b5)
+ - 修复了“Minecraft”标题过低的问题 (f7800784366cc92a620b52536caa20605e80061f)
+ - 将攻击指示器调回默认样式 (d6294964e8785baa5dadb7140bcfcff1210a2fd4)
+ - 升级模组 (df049b73e9efef718f2f4e5f8cd2f5e0f439ec35, 550ca3bbee910f8808202b3ae4e10953e1d85d83, 28169826893d07e4f3fc8816fdcf5a920be85bdc, 8c572e320fd8bbbe4917390f78c48376a7638499, 5cf375bd66736e07e0c20d7cfeaf25a45bf6a163, 39681a0bafd15ed50be92685eed19aff48f7a6d2, 83727d91d7e8504d202556867185b0a7ce27840c, f5e0295f07a23bb5af56505adc13927c06ac9246, 26680ae68282b25433d5ce35cf451bd649f2a6ef)
+ - 升级Forge (28bea687f1021d14dd69266d56265f340ebbee9e, 56f4057f134b23e49277d98b9be5b9c8cb0de70b, 8bab2410020349a80148a68ffaf7de8c7b8d2d27, )
+ - 将原版tweakeroo替换为Forge移植版（tweakerge）（先前由于其前置兼容性过差而被替换，现取消该更改） (8a93fd0082e7aae1b14ce00674127a0a23f8617b)
+ - 添加[BoccHUD](https://modrinth.com/mod/bocchud)（minihud forge移植版） (dd1fe378c20ebad054ec0b9661ffefc4a6548f9a)
+ - 将原版fastquit替换为[fastquit-forge](https://modrinth.com/mod/fastquit-forge) (f563771a027240bff610d9751c46a9ac84d7cd9c)
+ - 删除“MineOptimiz设置”中的“键位设置” (661a52d23eb007b024556a3ec0abea2f7fbeb215)
+ - 添加基于[packwiz-installer](https://github.com/packwiz/packwiz-installer)的更新系统 (274ed5d223aabff215e1c5ba5cfb3137f8812ec6...713fbf2dd7a4dfb21c017e87e3151b7160b75384)
+ - 更新模组许可证链接 (a1fa587b5872207a60c51d735b275649ad7ff2dd)
+ - 修复了整合包不兼容诸如SkinRestorer等皮肤切换插件的问题 (ffbe185794b20176f00f09d853a9a32a9405dfdb)
+ - 关闭了Inventory Profiles Next在物品栏界面内无用的按钮 (fd1edbca2c0da8b38c6c1d01dbc22d272b940fb6)
+ - 在资源包界面添加“取消”按钮，避免触发[MC-147990](https://bugs.mojang.com/browse/MC/issues/MC-147990) (9c102cb99a62ef20f1ff6114fc572fb5e0eb04b6)
+ - 添加Simple Close Button模组，现在可使用物品栏右上角的按钮关闭物品栏而不仅仅使用esc键 (43458bb5de5034f86027ef3a951a313627e037df)
+ - 添加了一个神秘彩蛋👀 (b7ac392cf90a3e26f70165824355d1735475be4c)
+ - 添加“Spawn Egg! New!”纹理包，该纹理包将1.21.5中对生物蛋添加的新纹理向下移植到了1.21.4- (56eebefa200e026f108ceab5897e143b0e3d3798)
+
+
+## 其他更改
+ - 优化workflow，自动刷新index (409b44ed6723bde2a9963ea92c905f05967fec93...2e8acc1e7711c595622d72e05a2d27a8fde7fbfe, bd34a46b2f44b2779797e2d2c3fcc8e193cfcbfd...5c37aa6edc55316036504d64fcf931fdb0fafc52)
+ - 使用基于node 20的releases自动上传workflow (c38d0067f93b12f38c5f101d4db22ea599d1f2f8)
+ - 在[testing分支](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/tree/20.1/forge_testing)中关闭更新检查器 (c4121433c0295efee81b47e947dd43ecc69ab9c8)
+ - 自动上传testing分支整合包到[Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases) (bd34a46b2f44b2779797e2d2c3fcc8e193cfcbfd)
+
+
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.4-forge+2...3.201.5-forge+1
