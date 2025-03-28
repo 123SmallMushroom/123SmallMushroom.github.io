@@ -1,0 +1,28 @@
+## 整合包内更改
+ - 将整合包移植到[packwiz](https://github.com/packwiz/packwiz)储存格式，减小体积
+ - 关闭自动缩放，修复了部分情况下界面模糊的问题)
+ - 删除了一些不再被需要的lib模组
+ - 将闭源的fix-gpu-memory替换为适用平台更为广泛的[gpu-tape](https://modrinth.com/mod/gputape/)
+ - 修复了“Minecraft”标题过低的问题
+ - 将攻击指示器调回默认样式
+ - 升级模组
+ - 升级Fabric Loader
+ - 添加[Minihud](https://modrinth.com/mod/minihud) 
+ - 删除“MineOptimiz设置”中的“键位设置” 
+ - 添加基于[packwiz-installer](https://github.com/packwiz/packwiz-installer)的更新系统 
+ - 更新模组许可证链接
+ - 修复了整合包不兼容诸如SkinRestorer等皮肤切换插件的问题
+ - 关闭了Inventory Profiles Next在物品栏界面内无用的按钮
+ - 添加Simple Close Button模组，现在可使用物品栏右上角的按钮关闭物品栏而不仅仅使用esc键
+ - 添加了一个神秘彩蛋👀
+ - 添加“Spawn Egg! New!”纹理包，该纹理包将1.21.5中对生物蛋添加的新纹理向下移植到了1.21.4- 
+
+## 其他更改
+ - 改进workflow，自动刷新index
+ - 使用基于node 20的releases自动上传workflow
+ - 自动上传testing分支整合包到[Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases) 
+
+### Hotfix:
+ - 修复了更新频道错误的bug
+
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.211.1-fabric+1...3.211.2-fabric+1
