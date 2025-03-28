@@ -1,0 +1,2 @@
+ - 版本号的显示改用fancymenu自带变量系统而不是使用modpack-update-checker (8b3488b7a95a983e1ef015e67660cca3b724754c, 82985bfcb5a180c24b2838b51a3f76d5f1895422)
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.5-forge+2...3.201.5-forge+3
