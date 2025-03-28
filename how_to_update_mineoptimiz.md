@@ -47,4 +47,4 @@ bash "$INST_MC_DIR/update.sh"
 ## 切换频道
 在游戏内可点击“MineOptimiz设置 - 关于... - 更新 - 更新整合包 - 切换更新频道”以切换到stable或testing频道
 
-切换频道后，需删除更新脚本(update.bat, get_commitid.ps1, get_tagid.ps1, update.sh)重新下载并使用脚本更新。在执行脚本前，请删除游戏目录下的config\modpack-update-checker文件夹
+切换频道后，需删除更新脚本(update.bat, get_commitid.ps1, get_tagid.ps1, update.sh)重新下载并使用脚本更新。在执行脚本前，请删除游戏目录下的config\modpack-update-checker与config\fancymenu文件夹
