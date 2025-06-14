@@ -1,0 +1,6 @@
+ - 添加模组：[mcwifipnp](https://www.mcmod.cn/class/4498.html)
+ - 更新Forge
+ - 更新模组与资源包
+
+ 
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.5-forge+1...3.201.6-forge+1
