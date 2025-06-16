@@ -1,0 +1,7 @@
+ - 更新模组与资源包
+ - 添加模组：[mcwifipnp](https://www.mcmod.cn/class/4498.html)
+ - 更新Fabric Loader
+ - 修复了[新刷怪蛋资源包](https://modrinth.com/resourcepack/spawn-egg-backport)无法自动加载的问题
+
+ 
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.214.0-fabric+3...3.214.1-fabric+1
