@@ -1,0 +1,3 @@
+ - 重新添加[wthit](https://modrinth.com/mod/wthit)
+ 
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.6-forge+3...3.201.6-forge+4
