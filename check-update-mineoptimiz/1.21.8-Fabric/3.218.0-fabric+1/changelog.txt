@@ -1,0 +1,9 @@
+ - Update to Minecraft 1.21.8
+ - Add mcwifipnp
+ - tweaked minihud settings
+ - Update the config of journeymap
+ - Replace JEI with REI
+ - Update Mods and Resoucepacks
+ - Update fabric-loader
+
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.214.1-fabric+2...3.218.0-fabric+1
