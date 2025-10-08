@@ -1,0 +1,8 @@
+ - Remove Update script download screen
+ - Update NeoForge
+ - Replace fabricskyboxes and fabricskyboxes-interop with optiboxes
+ - fix #5 (thanks for @htl597, he reported this bug)
+ - Disable Minecraft Realms button by default
+ - Update Mods and Resourcepacks
+
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.211.3-neoforge+3...3.211.4-neoforge+1
