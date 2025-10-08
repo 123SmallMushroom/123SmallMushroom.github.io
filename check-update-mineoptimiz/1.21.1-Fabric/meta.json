@@ -4,39 +4,39 @@
     "versions": [
       {
         "id": "3.211.0-fabric+1",
-        "releasedAt": 0
+        "releasedAt": 1731649770000
       },
       {
         "id": "3.211.0-fabric+2",
-        "releasedAt": 1
+        "releasedAt": 1733375367000
       },
       {
         "id": "3.211.1-fabric+1",
-        "releasedAt": 2
+        "releasedAt": 1735190637000
       },
       {
         "id": "3.211.1-fabric+2",
-        "releasedAt": 3
+        "releasedAt": 1741535847000
       },
       {
         "id": "3.211.2-fabric+1",
-        "releasedAt": 4
+        "releasedAt": 1743149008000
       },
       {
         "id": "3.211.2-fabric+2",
-        "releasedAt": 5
+        "releasedAt": 1744119817000
       },
       {
         "id": "3.211.3-fabric+1",
-        "releasedAt": 6
+        "releasedAt": 1749901984000
       },
       {
         "id": "3.211.3-fabric+2",
-        "releasedAt": 7
+        "releasedAt": 1750052636000
       },
       {
         "id": "3.211.3-fabric+3",
-        "releasedAt": 8
+        "releasedAt": 1750247083000
       }
     ]
   }
