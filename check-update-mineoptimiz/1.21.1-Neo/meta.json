@@ -4,47 +4,47 @@
     "versions": [
       {
         "id": "3.211.0-neoforge+1",
-        "releasedAt": 0
+        "releasedAt": 1730369462000
       },
       {
         "id": "3.211.0-neoforge+2",
-        "releasedAt": 1
+        "releasedAt": 1730474695000
       },
       {
         "id": "3.211.0-neoforge+3",
-        "releasedAt": 2
+        "releasedAt": 1733376352000
       },
       {
         "id": "3.211.1-neoforge+1",
-        "releasedAt": 3
+        "releasedAt": 1737510577000
       },
       {
         "id": "3.211.1-neoforge+2",
-        "releasedAt": 4
+        "releasedAt": 1737599562000
       },
       {
         "id": "3.211.1-neoforge+3",
-        "releasedAt": 5
+        "releasedAt": 1741536151000
       },
       {
         "id": "3.211.1-neoforge+4",
-        "releasedAt": 6
+        "releasedAt": 1741538176000
       },
       {
         "id": "3.211.2-neoforge+1",
-        "releasedAt": 7
+        "releasedAt": 1744126503000
       },
       {
         "id": "3.211.3-neoforge+1",
-        "releasedAt": 8
+        "releasedAt": 1749905036000
       },
       {
         "id": "3.211.3-neoforge+2",
-        "releasedAt": 9
+        "releasedAt": 1750051961000
       },
       {
         "id": "3.211.3-neoforge+3",
-        "releasedAt": 10
+        "releasedAt": 1750246880000
       }
     ]
   }
