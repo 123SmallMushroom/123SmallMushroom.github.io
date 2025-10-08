@@ -4,11 +4,11 @@
     "versions": [
       {
         "id": "3.218.0-fabric+1",
-        "releasedAt": 1759281583
+        "releasedAt": 1759281583000
       },
       {
         "id": "3.218.0-fabric+2",
-        "releasedAt": 1759914422
+        "releasedAt": 1759914422000
       }
     ]
   }
