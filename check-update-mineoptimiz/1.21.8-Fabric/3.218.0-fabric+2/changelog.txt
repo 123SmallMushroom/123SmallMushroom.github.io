@@ -1,0 +1,2 @@
+ - Disabled forceUnicodefont
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.218.0-fabric+1...3.218.0-fabric+2
