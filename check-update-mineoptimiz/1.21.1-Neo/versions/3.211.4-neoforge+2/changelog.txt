@@ -1,0 +1,2 @@
+ - Replace malilib with mafglib to fix crash
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.211.4-neoforge+1...3.211.4-neoforge+2
